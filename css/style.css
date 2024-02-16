@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     color: #40514e;
     font-family: 'Merriweather', serif;
@@ -138,10 +137,8 @@ hr {
     color: #eaf6f6;
 }
 
-.copyright {
-    color: #eaf6f6;
-    font-size: 0.75rem;
-=======
+
+
 body {
     color: #40514e;
     font-family: 'Merriweather', serif;
@@ -282,5 +279,5 @@ hr {
 .copyright {
     color: #eaf6f6;
     font-size: 0.75rem;
->>>>>>> c9ac4b8c9fd22ef6042bdb5225d0d5eed050bf27
+
 }
